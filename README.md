@@ -9,7 +9,7 @@ To contribute to this project, knowledge of basic python scripting, Machine Lear
 -> Getting Started - How to use it?
 
 Clone this repository
-https://github.com/anirbanchatt/Accident_Detection_System.git
+https://github.com/anirbanchatt/Accident_Detection_System.git   
 
 To install all the packages required to run this python program pip install -r requirements.txt
 
