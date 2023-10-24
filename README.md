@@ -18,6 +18,8 @@ Note: This project requires a camera. So make sure you have a connected camera t
 Run
 Before running the program, you need to run the accident-classification.ipynb file which will create the model_weights.h5 file. Then, to run this python program, you need to execute the main.py python file.
 
+_**-> Libraries used :**_
+
 _**-> Description**_
 This program includes 4 things.
 
